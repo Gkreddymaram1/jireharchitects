@@ -681,7 +681,7 @@ textarea {
 }
 
 .site-navigation .inner ul li a:hover {
-    color: #f16522;
+    color: #006ec1;
     text-decoration: none;
 }
 
@@ -3205,5 +3205,6 @@ only screen and (max-device-width: 767px) {
         transform: scale(0, 1);
     }
 }
+
 
 /*# sourceMappingURL=style.css.map */
